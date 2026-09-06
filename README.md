@@ -1,5 +1,7 @@
 # 海潮 Web Demo
 
+> 🌊 **在线体验**：<https://haichao-web-demo.pages.dev/>
+
 这是为「闽都×火山杯 Agent 创新大赛」准备的独立 Web 体验页，定位为：高审美、可录屏、可部署、可安全接入 HiAgent API。
 
 ## 已内置的信息
