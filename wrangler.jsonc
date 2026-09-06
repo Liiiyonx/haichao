@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "haichao-web-demo",
+  "pages_build_output_dir": "./public",
+  "compatibility_date": "2026-08-17",
+  "vars": {
+    "HIAGENT_API_BASE": "http://14.103.118.162:32300/api/proxy/api/v1",
+    "HIAGENT_APP_ID": "d9m72hpb9rsa732fojg0",
+    "HIAGENT_USER_ID": "haichao_pages_demo",
+    "HIAGENT_TIMEOUT_MS": "52000",
+    "HIAGENT_POLL_INTERVAL_MS": "1600",
+    "HIAGENT_DEMO_MODE": "0"
+  }
+}
