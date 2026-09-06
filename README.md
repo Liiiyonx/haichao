@@ -22,7 +22,9 @@
 - API 地址：`http://14.103.118.162:32300/api/proxy/api/v1`
 - 能力表达：3 个专业 Agent、24 个工作流节点、11 层可信链路
 
-<!-- TODO: 补 HiAgent 工作流画布截图至 assets/ 并在此引用 -->
+HiAgent 平台工作流编排画布（海潮v5.2，v5.2.0 发布成功）：
+
+![HiAgent 工作流编排画布](assets/hiagent-workflow.png)
 
 ## 本地运行
 
